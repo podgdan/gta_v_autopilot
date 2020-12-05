@@ -1,0 +1,7 @@
+*.h5
+*.png
+rgb1
+rgb2
+training-data
+venv
+.idea
